@@ -30,7 +30,7 @@ Physics student focusing on microelectronics, embedded systems, and robotics.
     <td align="left" valign="top" width="50%">
       <strong>⚙️ Tools</strong><br/>
       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </td>
   </tr>
