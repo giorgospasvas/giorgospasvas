@@ -37,8 +37,3 @@ Physics student focusing on microelectronics, embedded systems, and robotics.
 </table>
 
 ---
-
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgospasvas&show_icons=true&theme=tokyonight&count_private=true" alt="Giorgos's GitHub Stats" />
-</p>
