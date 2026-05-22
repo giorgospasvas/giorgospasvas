@@ -1,4 +1,4 @@
-# Hi, I'm Giorgos Pasvantis 👋
+# Hi, I'm Giorgos Pasvantis 
 Physics student focusing on microelectronics, embedded systems, and robotics. 
 
 ---
@@ -25,7 +25,7 @@ Physics student focusing on microelectronics, embedded systems, and robotics.
       <strong>🔌 Hardware Components</strong><br/>
       🔹 Ultrasonic Sensors & PIR <br/>
       🔹 Servo Motors & Actuators <br/>
-      🔹 TM1637 Displays & I2C
+      🔹 TM1637 Displays 
     </td>
     <td align="left" valign="top" width="50%">
       <strong>⚙️ Tools</strong><br/>
