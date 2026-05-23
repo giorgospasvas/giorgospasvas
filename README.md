@@ -1,7 +1,12 @@
-# Hi, I'm Giorgos Pasvantis 
-Physics student focusing on microelectronics, embedded systems, and robotics. 
+<div align="center">
+
+# ⚡ Giorgos Pasvantis
+### *Physics Student & Embedded Systems Developer*
+
+[![Location](https://img.shields.io/badge/Location-Greece-blue?style=flat-square&logo=googlemaps)](https://github.com/giorgospasvas)
 
 ---
+</div>
 
 ### 🛠️ Tech Stack & Tools
 
