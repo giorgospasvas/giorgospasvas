@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Giorgos Pasvantis
+#  Giorgos Lazaros Pasvantis
 ### *Physics Student & Embedded Systems Developer*
 
 [![Location](https://img.shields.io/badge/Location-Greece-blue?style=flat-square&logo=googlemaps)](https://github.com/giorgospasvas)
