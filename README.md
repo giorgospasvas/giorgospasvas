@@ -4,7 +4,7 @@
 ### *Physics Student & Embedded Systems Developer*
 
 [![Location](https://img.shields.io/badge/Location-Greece-blue?style=flat-square&logo=googlemaps)](https://github.com/giorgospasvas)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](giorgospasvantis_)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](www.instagram.com/giorgospasvantis_)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giorgospasvas@gmail.com)
 ---
 </div>
