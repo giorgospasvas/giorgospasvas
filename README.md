@@ -8,38 +8,19 @@
 ---
 </div>
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong>🧠 Microcontrollers</strong><br/>
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino"/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong>💻 Languages</strong><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong>🔌 Hardware Components</strong><br/>
-      🔹 Ultrasonic Sensors & PIR <br/>
-      🔹 Servo Motors & Actuators <br/>
-      🔹 TM1637 Displays 
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong>⚙️ Tools</strong><br/>
-      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE"/>
-      <img src="https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GML"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </td>
-  </tr>
-</table>
+### 🧠 Microcontrollers & Hardware
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
----
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-ED7B24?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GML](https://img.shields.io/badge/-GameMaker%20GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
