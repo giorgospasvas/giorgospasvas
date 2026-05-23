@@ -4,7 +4,8 @@
 ### *Physics Student & Embedded Systems Developer*
 
 [![Location](https://img.shields.io/badge/Location-Greece-blue?style=flat-square&logo=googlemaps)](https://github.com/giorgospasvas)
-
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](giorgospasvantis_)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giorgospasvas@gmail.com)
 ---
 </div>
 
@@ -24,9 +25,3 @@
 ### 🧰 Tools & Platforms
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgospasvas&show_icons=true&theme=tokyonight&count_private=true" alt="Giorgos's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgospasvas&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
